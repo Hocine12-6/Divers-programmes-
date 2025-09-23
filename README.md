@@ -1,6 +1,6 @@
 # Games-
 A games 
-
+Here we have some simple games in Python and the requirements are usually simple libraries like random library and you can know the requirements from the first lines of the file and it is worth noting that Python language must be installed 
 
 By using the software in this section you agree to: 
 1- Not claiming ownership of the program.

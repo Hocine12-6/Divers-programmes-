@@ -1,5 +1,5 @@
 # Games-
-A games 
+A games and my small projects 
 Here we have some simple games in Python and the requirements are usually simple libraries like random library and you can know the requirements from the first lines of the file and it is worth noting that Python language must be installed 
 
 By using the software in this section you agree to: 
@@ -9,3 +9,13 @@ By using the software in this section you agree to:
 
 Ethical responsibility:
 Although this section contains games, it is possible that they could be converted into illegal activities. Therefore, I do not bear responsibility for any illegal use of the programs. 
+
+.and thank you 😁☺️
+
+
+
+
+
+
+
+mr.hocine yacia
